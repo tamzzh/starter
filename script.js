@@ -123,10 +123,3 @@ btnNew.addEventListener('click', init);
 
 // reset the total score
 // we will create a new function with the scores const that has all the starter values and also the code we wrote above for btn new. we will create a new function called init.
-///dkjnkdfn
-// test
-
-//dsfsdfs
-//nvnvkjnv
-///lknnlknaks
-//dssdsdsd
