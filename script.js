@@ -120,8 +120,7 @@ btnHold.addEventListener('click', function () {
 });
 // resetting game. my attempt no teacher
 btnNew.addEventListener('click', init);
-const test = false;
-const test2 = false;
+
 // reset the total score
 // we will create a new function with the scores const that has all the starter values and also the code we wrote above for btn new. we will create a new function called init.
 ///dkjnkdfn
